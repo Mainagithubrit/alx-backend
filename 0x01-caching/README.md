@@ -81,3 +81,8 @@
                         - def get(self, key):
                             - Must return the value in self.cache_data linked to key.
                             - If key is None or if the key doesn’t exist in self.cache_data, return None.
+
+
+# NOTE
+    - Use the base_caching.py as the parent class
+    - There are main.py files included to call the functions you can use them
